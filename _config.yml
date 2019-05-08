@@ -14,7 +14,10 @@ sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "Veni, Vedi, Vici"
 sidebar-avatar: /img/imgfirst.jpg    # use absolute URL, seeing it's used in both `/` and `/about/`
 
-
+---
+layout:     keynote
+iframe:     "http://huangxuan.me/js-module-7day/"
+---
 
 # SNS settings
 RSS: false
