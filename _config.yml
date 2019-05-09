@@ -58,18 +58,7 @@ kramdown:
 # 评论系统
  #Disqus（https://disqus.com/）
  disqus_username: disqus_pCFQn4AVRG
-# Duoshuo ShortName
-#duoshuo_shortname:
 
-#添加在这里
-# Disqus 
-disqus:
-  enable: true
-  shortname: letyoudown    #your name
-  count: true
-
-# Hypercomments
-#hypercomments_id:
 
 # 统计
 
