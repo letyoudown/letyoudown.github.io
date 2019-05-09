@@ -2,7 +2,7 @@
 layout: default
 ---
 
- {% if site.disqus.enable %}
+{% if page.comments %}
 
                 <!-- disqus 评论框 start -->
                 <div class="comment">
@@ -74,7 +74,7 @@ layout: default
     resize();
 </script>
 
-{% if site.disqus.enable %}
+{% if page.comments %}
 <!-- disqus 公共JS代码 start (一个网页只需插入一次) -->
 <script type="text/javascript">
     /* * * CONFIGURATION VARIABLES * * */
