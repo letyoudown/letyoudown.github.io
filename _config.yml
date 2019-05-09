@@ -65,7 +65,7 @@ kramdown:
 # Disqus 
 disqus:
   enable: true
-  shortname: deppwang    #your name
+  shortname: letyoudown    #your name
   count: true
 
 # Hypercomments
