@@ -89,11 +89,11 @@ service-worker: true
 # Friends
 friends: [
     {
-        title: "WY",
-        href: "http://zhengwuyang.com"
+        title: "XXXTENTACION",
+        href: "http://abc.com"
     },{
-        title: "简书·BY",
-        href: "http://www.jianshu.com/u/e71990ada2fd"
+        title: "xiaoJ",
+        href: "http://www.jianshu.com/"
     },{
         title: "Apple",
         href: "https://apple.com"
