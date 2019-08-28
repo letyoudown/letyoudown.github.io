@@ -1,3 +1,25 @@
+---
+layout:     post                    # 使用的布局（不需要改）
+title:      3分钟弄明白JAVA三大修饰符               # 标题 
+subtitle:   JAVA三大修饰符 #副标题
+date:       2019-08-28              # 时间
+author:     WX                      # 作者
+header-img: img/post-bg-2015.jpg    #这篇文章标题背景图片
+catalog: true                       # 是否归档
+tags:                               #标签
+    - java
+---
+
+
+
+
+
+
+
+
+
+
+
 3分钟弄明白JAVA三大修饰符
 
 JAVA的三个修饰：static,final,abstract，在JAVA语言里无处不在，但是它们都能修饰什么组件，修饰组件的含义又有什么限制，总是混淆。所以来总结对比一下。
